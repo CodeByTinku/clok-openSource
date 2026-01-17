@@ -1,4 +1,4 @@
-function updatClok() {
+function updateClok() {
   let noww = new Date();
   let houre = noww.getHours() - 12;
   let minuts = noww.getMinutes();
